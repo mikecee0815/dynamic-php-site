@@ -1,0 +1,2 @@
+<h1>about page</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, voluptate consequatur non. Dicta aperiam, provident aspernatur et quisquam ut unde facere, voluptatibus deserunt natus voluptatum ea? Vitae quos explicabo nihil cumque magnam a aliquid consequatur iste dolorum laboriosam sint distinctio pariatur quo, fugit sunt, officia necessitatibus nulla praesentium! Voluptas, obcaecati.</p>
