@@ -12,3 +12,29 @@
 				</div>	
 			</div>
 </section>
+
+<section id="marketing">
+		<div class="row">
+					<div class="card">
+						<div class="card-wrapper">
+							<h3 class="card-heading">card1</h3>
+						<p class="card-info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
+						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-wrapper">
+						<h3 class="card-heading">card2</h3>
+						<p class="card-info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
+						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+					</div>
+					</div>
+					<div class="card">
+						<div class="card-wrapper">
+							<h3 class="card-heading">card3</h3>
+						<p class="card-info" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
+						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+						</div>
+					</div>	
+			</div>
+</section>
