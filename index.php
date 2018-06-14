@@ -15,8 +15,7 @@
   	 	}
 	  	 	
 	  	 } else {
-			include($pagesDirectory."/home.php"); 
-				 	
+			include($pagesDirectory."/home.php"); 		 	
 	  	 }
 
 	   ?>
