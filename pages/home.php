@@ -12,28 +12,64 @@
 				</div>	
 			</div>
 </section>
+<section class="intro">
+	<div class="row">
+		<div class="card">
+			<div class="card-wrapper">
+				<iframe class="card-video" width="640" height="360" src="https://www.youtube.com/embed/quZnVY94J_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<!-- <h2 class="card-heading">Lorem ipsum dolor sit amet,</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat saepe expedita iste eveniet at, quia!
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat saepe expedita iste eveniet at, quia!
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat saepe expedita iste eveniet at, quia!
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat saepe expedita iste eveniet at, quia!
+				</p> -->
+			</div>
+		</div>
+		<div class="card">
+			<div class="card-wrapper">
+				<h2 class="card-heading">Hello Dancers! , Hola Bailadores!</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+				</p>
+				<br>
+				<h3 class="card-heading">Saborisate con SABORI!</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere molestias laboriosam illo, distinctio.
+						Facere molestias laboriosam illo, distinctio.Facere molestias laboriosam illo, distinctio.
+						Facere molestias laboriosam illo, distinctio.
+				</p>
+				<a class="button button2" href="">Join our Mailing List</a>
+			</div>
+		</div>
+	</div>
+</section>
 
 <section id="marketing">
 		<div class="row">
 					<div class="card">
 						<div class="card-wrapper">
 							<h3 class="card-heading">card1</h3>
-						<p class="card-info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
-						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+						<p class="card-info">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!
+						</p>
+						<img class="card-img" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/23132050_1653902084681052_5129282527438959840_n.jpg?_nc_cat=0&oh=29c2c9fb3467757ea9a348ec28fc1252&oe=5BA13357" alt="">
 						</div>
 					</div>
 					<div class="card">
 						<div class="card-wrapper">
 						<h3 class="card-heading">card2</h3>
 						<p class="card-info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
-						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+						<img class="card-img" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10407212_929707320433869_4006851875102349261_n.jpg?_nc_cat=0&oh=1247cbeccdb1043cd5aac1ae50ad55c1&oe=5BA3B09C" alt="">
 					</div>
 					</div>
 					<div class="card">
 						<div class="card-wrapper">
 							<h3 class="card-heading">card3</h3>
 						<p class="card-info" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, impedit!</p>
-						<img class="card-img" src="https://c8.alamy.com/comp/EB3KWH/salsa-band-playing-in-nuyorican-cafe-old-san-juan-puerto-rico-EB3KWH.jpg" alt="">
+						<img class="card-img" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/19113674_1488317404565373_8118772794252238349_n.jpg?_nc_cat=0&oh=07068fed1d771667e1b04b922396054b&oe=5BA5BDC9" alt="">
 						</div>
 					</div>	
 			</div>
