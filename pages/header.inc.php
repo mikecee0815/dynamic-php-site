@@ -7,10 +7,15 @@
 <title>Dynamic Content </title>
 </head>
 <body>
-	<nav>
-		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="index.php?pageName=contact">contact</a></li>
-			<li><a href="index.php?pageName=about">About</a></li>
+	<header class="header">
+		<li class="nav-item"><a class="nav-link" href="index.php">Sabori</a></li>
+		<nav>
+		<ul class="navbar">
+			<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+			<li class="nav-item"><a class="nav-link" href="index.php?pageName=contact">contact</a></li>
+			<li class="nav-item"><a class="nav-link" href="index.php?pageName=about">About</a></li>
+			<li class="nav-item"><a class="nav-link" href="index.php?pageName=about">Events</a></li>
 		</ul>
 	</nav>
+	</header>
+	
