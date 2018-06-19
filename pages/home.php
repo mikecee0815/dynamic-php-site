@@ -41,7 +41,7 @@
 						Facere molestias laboriosam illo, distinctio.Facere molestias laboriosam illo, distinctio.
 						Facere molestias laboriosam illo, distinctio.
 				</p>
-				<a class="button button2" href="">Join our Mailing List</a>
+				<a class="button button2" href="index.php?pageName=mailinglist">Join our Mailing List</a>
 			</div>
 		</div>
 	</div>

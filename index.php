@@ -17,7 +17,6 @@
 	  	 } else {
 			include($pagesDirectory."/home.php"); 		 	
 	  	 }
-
 	   ?>
 	</div>
 	<?php include ("pages/footer.inc.php"); ?>
