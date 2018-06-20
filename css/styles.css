@@ -15,6 +15,68 @@ ul{
 		background: #3838e8;
 }
 
+/*flexbox nav*/
+.Navbar{
+	display: flex;
+	color: white;
+	padding: 15px;
+}
+
+.Navbar__Items {
+	display: flex;
+}
+
+.Navbar__Items--right {
+	margin-left: auto;
+}
+.Navbar__Logo {
+	padding: 15px;
+	/*border-bottom: 1px solid #FFF;*/
+}
+
+.Navbar__Link a {
+	padding-right: 15px;
+	/*border-bottom: 1px solid #FFF;*/
+	/*display: block;*/
+	color: #FFF;
+
+}
+
+.Navbar__Link {
+	padding: 15px;
+	/*border-bottom: 1px solid #FFF;*/
+}
+.Navbar__Link-toggle{
+	display: none;
+}
+
+@media only screen and (max-width: 768px) {
+
+	.Navbar, .Navbar__Items {
+		flex-direction:column;
+	}
+	
+	.Navbar__Link-toggle {
+	  align-self: flex-end;
+	  display: initial;
+	  position: absolute;
+	  cursor: pointer;
+	}
+
+	.Navbar__Items {
+    display:none;
+  }
+
+  .Navbar__Items--right{
+		margin-left: 0;
+	}
+
+	.Navbar__ToggleShow{
+		display: flex;
+	}
+
+	}
+
 .heading-my {
 	margin-top: 20px;
 	margin-bottom: 10px;
@@ -32,8 +94,8 @@ ul{
 .footer-heading {
 	padding: 20px;
 }
-.navbar {
 
+.navbar {
 	width: 100%;
 	display: flex;
 	box-sizing:border-box;
@@ -41,7 +103,6 @@ ul{
 }
 
 .nav-item{
-
 	/*width:100%;*/
 	display: flex;
 	text-align: center;
@@ -249,16 +310,13 @@ input.form-item.button {
 }
 
 @media only screen and (min-width: 768px) {
-
+	
 	.form-wrap {
- 	 
     max-width: 50%;
 }
-
 	.card-img {
 		max-height: 200px;
-	}
-    
+	}   
     .row {
 			display:flex;
 			flex-direction:row;
@@ -267,14 +325,13 @@ input.form-item.button {
     .button{
     	margin:30 auto;
     }
-
 }
 
 @media only screen and (min-width: 800px) {
 
 	.header{
-		display: flex;
-    	justify-content: space-between
+		/*display: flex;*/
+    	/*justify-content: space-between*/
 	}
 
 	.navbar {
